@@ -1,0 +1,8 @@
+wikipedia-api
+requests
+pygame
+speechrecognition
+pypiwin32
+beautifulsoup4
+google
+pyttsx3==2.71

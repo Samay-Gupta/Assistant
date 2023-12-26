@@ -1,0 +1,20 @@
+As we approach the near end of our project timeline, it's time to share updates on our progress and receive feedback from your peers. This discussion post is an opportunity for us to share the challenges and successes you've experienced thus far, and to help one another identify potential solutions to any roadblocks you may have encountered.
+
+Please take a moment to share an overview of your project and any updates you have. Consider including the following details:
+
+Title of your project
+Team members
+The goals of your project
+The progress you've made so far
+Any obstacles you've faced and how you're addressing them
+Any questions or concerns you have about your project
+Feedback you're seeking from your peers
+As you read through your classmates' posts, be sure to offer constructive feedback and support.
+
+
+Title: Story Generator
+Team members: Samay Gupta, Amani Arora
+Project Goal: The primary goal of our project is to develop a Story Generator tool that can create unique and engaging stories from a given prompt. We're using the Grimes Fairytales Dataset to train our model and generate stories that are similar to traditional fairy tales. The generated stories will be evaluated based on their coherence, readability, and creativity.
+Progress so far: We have completed the data cleaning and preprocessing phase, and we're currently working on creating and experimenting with different tensorflow models. We're also looking into different ways to better tokenise and train our data.
+Obstacles faced: Data preprocessing the Grimms fairytales took a lot of time and posed a lot of challenges. One issue was the dataset we used was not formatted correctly and posed a lot of other issues with incomplete data. The incomplete data was addressed by manually looking up and comparing the stories. The python NLTK module is helping with the preprocessing now.
+Questions/ concerns: One of the biggest concern we're facing is the quality/accuracy of the trained model. In smaller simpler tests,  NLP based models that we experimented with performed poorly. Any recommendations 
